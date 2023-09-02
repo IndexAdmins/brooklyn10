@@ -1,0 +1,5 @@
+_G.KEY = "v"
+_G.PART = "Head", "LeftHand", "RightHand", "LeftLowerArm", "RightLowerArm", "LeftUpperArm", "RightUpperArm", "LeftFoot", "LeftLowerLeg", "UpperTorso", "HumanoidRootPart", "LeftUpperLeg", "RightLowerLeg", "RightFoot", "LowerTorso"
+_G.PRED = 0.032
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GuizzyisbackV2LOL/GuizzyLuaThusk4t5345345/main/LuaObf'))()
+
